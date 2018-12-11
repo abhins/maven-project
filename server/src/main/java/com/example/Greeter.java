@@ -4,7 +4,6 @@ package com.example;
  * This is a class.
  */
 public class Greeter {
-sdf
   /**
    * This is a constructor.
    */
